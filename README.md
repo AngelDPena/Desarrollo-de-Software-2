@@ -1,6 +1,8 @@
 # Desarrollo-de-Software-2
 
-App Dealer
+App Dealer:
+
+
 Este repositorio contiene:
 -Panel de búsqueda de vehículos
 -Panel de registro de vehículos
